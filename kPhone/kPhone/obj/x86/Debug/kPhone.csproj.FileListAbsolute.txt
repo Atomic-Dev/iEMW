@@ -1,0 +1,13 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\kPhone.Form1.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\kPhone.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\kPhone.RamGec_About_Box1.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\bin\Debug\iEMW.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\bin\Debug\iEMW.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\iEMW.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\iEMW.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\kPhone.calcInterface.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\kPhone.xcalendar.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Debug\kPhone.browser.resources

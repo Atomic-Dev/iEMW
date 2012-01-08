@@ -1,0 +1,13 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\kPhone.Form1.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\kPhone.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\kPhone.RamGec_About_Box1.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\bin\Release\iEMW.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\bin\Release\iEMW.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\kPhone.browser.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\kPhone.calcInterface.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\kPhone.xcalendar.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\iEMW.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\kPhone\kPhone\obj\x86\Release\iEMW.pdb
